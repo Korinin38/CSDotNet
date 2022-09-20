@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="StackMinValue\" />
+    <Folder Include="Lab1\" />
   </ItemGroup>
 
 </Project>
